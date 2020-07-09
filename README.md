@@ -1,2 +1,3 @@
 # Trip-guide
-Web-application to plan your trips.
+Sample Web-application to plan your trips.
+Hotels can be reserved prior your journey.
