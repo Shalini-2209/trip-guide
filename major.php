@@ -6,7 +6,7 @@ echo  "<!DOCTYPE html>
 <html lang='en'>
 <head>
     <meta charset='UTF-8'>
-    <link rel='stylesheet' type='text/css' href='privilege.css'>
+    <link rel='stylesheet' type='text/css' href='css/privilege.css'>
     
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>

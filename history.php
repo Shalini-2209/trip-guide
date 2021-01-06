@@ -1,7 +1,7 @@
 <?php
 session_start();
  echo "<div class='title'><br>&nbsp;&nbsp;&nbsp;History</div><br><br>
- <link rel='stylesheet' href ='style.css' type='text/css'>
+ <link rel='stylesheet' href ='css/style.css' type='text/css'>
  <title>History</title>
  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
  <style>

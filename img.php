@@ -7,7 +7,7 @@
 body
  {
      font-family: Verdana, sans-serif;
-    }
+  }
 .mySlides {display: none;}
 img {vertical-align: middle;}
 .slideshow-container {

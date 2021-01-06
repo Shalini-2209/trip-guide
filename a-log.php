@@ -28,9 +28,7 @@ session_start();
 
     else 
         {
-           
-        
-                 echo "Error: " .  "<br>" . $conn->error;     
+            echo "Error: " .  "<br>" . $conn->error;     
         }
 
 $conn->close();
